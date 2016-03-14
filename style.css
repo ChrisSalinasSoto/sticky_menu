@@ -1,9 +1,16 @@
+nav
+{
+
+    transition-property: top;
+    transition-duration: 500ms;
+    top: 0;
+}
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
     background-color: black;
+    margin-top:-9px;
+    margin-left: -9px;
 }
 
 li {
