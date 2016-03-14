@@ -8,16 +8,24 @@ ul {
 
 li {
     float: left;
+    
 }
 
 li a {
-    display: block;
+    display:block;
     color: white;
     text-align: center;
     padding: 10px 20px;
     text-decoration: none;
+    margin-left: 50px;
+    
 }
 
 li a:hover {
     background-color: orange;
+}
+
+#validatie
+{
+    float: right;
 }
