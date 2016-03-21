@@ -1,11 +1,13 @@
 nav
 {
-
+    width: 100%;
     transition-property: top;
     transition-duration: 500ms;
     top: 0;
+    position: fixed;
+    display: block;
 }
-ul {
+nav ul {
     list-style-type: none;
     overflow: hidden;
     background-color: black;
@@ -13,23 +15,23 @@ ul {
     margin-left: -9px;
 }
 
-li {
+nav ul li {
     float: left;
-    
 }
 
-li a {
+nav ul li a {
     display:block;
     color: white;
     text-align: center;
     padding: 10px 20px;
     text-decoration: none;
     margin-left: 50px;
+    padding: 10px;
     
 }
 
-li a:hover {
-    background-color: orange;
+nav ul li :hover {
+    background-color: #ffa500;
 }
 
 #validatie
