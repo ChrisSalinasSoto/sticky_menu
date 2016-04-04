@@ -1,7 +1,6 @@
 # Een sticky menu
-### 
+### Scroll naar beneden om de menu te laten verdwijnen
 
-Een sticky footer staat onderaan de pagina. 
-Als er te weinig inhoud is, dan staat deze onder aan het venster.
+de voorbeeld is een link naar mijn site van de sticky menu.
+
 [Voorbeeld](http://18510.hosts.ma-cloud.nl/School/periode3/FOP/sticky_menu/index.html)
-Met dank aan CSS-tricks: https://css-tricks.com/snippets/css/sticky-footer/
